@@ -67,8 +67,6 @@ div{
 
 I want to practice on page layouts and widths/heights. 
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [frontendmentor](https://www.frontendmentor.io/challenges) - This website actually give me for hopes for becoming a front-end web developer.
